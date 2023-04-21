@@ -1,2 +1,2 @@
 # tech-challenge
-My playground 
+My playground on chemoinformatics
