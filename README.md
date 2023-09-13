@@ -1,2 +1,2 @@
 # tech-challenge
-My playground on chemoinformatics
+My playground on chemoinformatics for Bionsight
